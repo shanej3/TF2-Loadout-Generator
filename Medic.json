@@ -1,0 +1,56 @@
+{
+    "weapons": [
+        {
+            "name": "Syringe Gun",
+            "slot": 1
+        },
+        {
+            "name": "Blutsauger",
+            "slot": 1
+        },
+        {
+            "name": "Crusader's Crossbow",
+            "slot": 1
+        },
+        {
+            "name": "Overdose",
+            "slot": 1
+        },
+        {
+            "name": "Medi Gun",
+            "slot": 2
+        },
+        {
+            "name": "Kritkzkrieg",
+            "slot": 2
+        },
+        {
+            "name": "Quick-Fix",
+            "slot": 2
+        },
+        {
+            "name": "Vaccinator",
+            "slot": 2
+        },
+        {
+            "name": "Bonesaw",
+            "slot": 3
+        },
+        {
+            "name": "Ubersaw",
+            "slot": 3
+        },
+        {
+            "name": "Vita-Saw",
+            "slot": 3
+        },
+        {
+            "name": "Amputator",
+            "slot": 3
+        },
+        {
+            "name": "Solemn Vow",
+            "slot": 3
+        }
+    ]
+}

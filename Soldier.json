@@ -1,0 +1,104 @@
+{
+    "weapons": [
+        {
+            "name": "Original ",
+            "slot": 1
+        },
+        {
+            "name": "Direct Hit ",
+            "slot": 1
+        },
+        {
+            "name": "Black Box ",
+            "slot": 1
+        },
+        {
+            "name": "Rocket Jumper ",
+            "slot": 1
+        },
+        {
+            "name": "Liberty Launcher",
+            "slot": 1
+        },
+        {
+            "name": "Cow Mangler 5000",
+            "slot": 1
+        },
+        {
+            "name": "Beggar's Bazooka ",
+            "slot": 1
+        },
+        {
+            "name": "Air Strike ",
+            "slot": 1
+        },
+        {
+            "name": "Shotgun",
+            "slot": 2
+        },
+        {
+            "name": "Reserve Shooter ",
+            "slot": 2
+        },
+        {
+            "name": "Buff Banner ",
+            "slot": 2
+        },
+        {
+            "name": "Gunboats",
+            "slot": 2
+        },
+        {
+            "name": "Battalion's Backup",
+            "slot": 2
+        },
+        {
+            "name": "Concheror",
+            "slot": 2
+        },
+        {
+            "name": "Mantreads",
+            "slot": 2
+        },
+        {
+            "name": "Righteous Bison",
+            "slot": 2
+        },
+        {
+            "name": "B.A.S.E. Jumper",
+            "slot": 2
+        },
+        {
+            "name": "Panic Attack ",
+            "slot": 2
+        },
+        {
+            "name": "Shovel",
+            "slot": 3
+        },
+        {
+            "name": "Equalizer",
+            "slot": 3
+        },
+        {
+            "name": "Pain Train ",
+            "slot": 3
+        },
+        {
+            "name": "Half-Zatoichi ",
+            "slot": 3
+        },
+        {
+            "name": "Disciplinary Action ",
+            "slot": 3
+        },
+        {
+            "name": "Market Gardener ",
+            "slot": 3
+        },
+        {
+            "name": "Escape Plan ",
+            "slot": 3
+        }
+    ]
+}

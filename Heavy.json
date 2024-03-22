@@ -1,0 +1,80 @@
+{
+    "weapons": [
+        {
+            "name": "Minigun",
+            "slot": 1
+        },
+        {
+            "name": "Natascha ",
+            "slot": 1
+        },
+        {
+            "name": "Brass Beast",
+            "slot": 1
+        },
+        {
+            "name": "Tomislav",
+            "slot": 1
+        },
+        {
+            "name": "Huo-Long Heater",
+            "slot": 1
+        },
+        {
+            "name": "Shotgun",
+            "slot": 2
+        },
+        {
+            "name": "Family Business",
+            "slot": 2
+        },
+        {
+            "name": "Sandvich",
+            "slot": 2
+        },
+        {
+            "name": "Dalokohs Bar",
+            "slot": 2
+        },
+        {
+            "name": "Buffalo Steak Sandvich",
+            "slot": 2
+        },
+        {
+            "name": "Panic Attack ",
+            "slot": 2
+        },
+        {
+            "name": "Second Banana",
+            "slot": 2
+        },
+        {
+            "name": "Fists ",
+            "slot": 3
+        },
+        {
+            "name": "Killing Gloves of Boxing",
+            "slot": 3
+        },
+        {
+            "name": "Gloves of Running Urgently",
+            "slot": 3
+        },
+        {
+            "name": "Warrior's Spirit",
+            "slot": 3
+        },
+        {
+            "name": "Fists of Steel",
+            "slot": 3
+        },
+        {
+            "name": "Eviction Notice",
+            "slot": 3
+        },
+        {
+            "name": "Holiday Punch",
+            "slot": 3
+        }
+    ]
+}

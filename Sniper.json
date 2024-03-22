@@ -1,0 +1,72 @@
+{
+    "weapons": [
+        {
+            "name": "Sniper Rifle",
+            "slot": 1
+        },
+        {
+            "name": "Huntsman",
+            "slot": 1
+        },
+        {
+            "name": "Sydney Sleeper",
+            "slot": 1
+        },
+        {
+            "name": "Bazaar Bargain",
+            "slot": 1
+        },
+        {
+            "name": "Machina",
+            "slot": 1
+        },
+        {
+            "name": "Hitman's Heatmaker",
+            "slot": 1
+        },
+        {
+            "name": "Classic",
+            "slot": 1
+        },
+        {
+            "name": "SMG",
+            "slot": 2
+        },
+        {
+            "name": "Cleaner's Carbine",
+            "slot": 2
+        },
+        {
+            "name": "Jarate",
+            "slot": 2
+        },
+        {
+            "name": "Razorback",
+            "slot": 2
+        },
+        {
+            "name": "Dawin's Danger Shield",
+            "slot": 2
+        },
+        {
+            "name": "Cozy Camper",
+            "slot": 2
+        },
+        {
+            "name": "Kukri",
+            "slot": 3
+        },
+        {
+            "name": "Tribalman's Shiv",
+            "slot": 3
+        },
+        {
+            "name": "Bushwacka",
+            "slot": 3
+        },
+        {
+            "name": "Shahanshah",
+            "slot": 3
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "weapons": [
+        {
+            "name": "Flamethrower",
+            "slot": 1
+        },
+        {
+            "name": "Backburner",
+            "slot": 1
+        },
+        {
+            "name": "Degreaser",
+            "slot": 1
+        },
+        {
+            "name": "Phlogistinator",
+            "slot": 1
+        },
+        {
+            "name": "Dragon's Fury",
+            "slot": 1
+        },
+        {
+            "name": "Shotgun",
+            "slot": 2
+        },
+        {
+            "name": "Reserve Shooter",
+            "slot": 2
+        },
+        {
+            "name": "Flare Gun",
+            "slot": 2
+        },
+        {
+            "name": "Detonator",
+            "slot": 2
+        },
+        {
+            "name": "Manmelter",
+            "slot": 2
+        },
+        {
+            "name": "Scorch Shot",
+            "slot": 2
+        },
+        {
+            "name": "Panic Attack",
+            "slot": 2
+        },
+        {
+            "name": "Thermal Thruster",
+            "slot": 2
+        },
+        {
+            "name": "Gas Passer ",
+            "slot": 2
+        },
+        {
+            "name": "Fire Axe ",
+            "slot": 3
+        },
+        {
+            "name": "Axtinguisher ",
+            "slot": 3
+        },
+        {
+            "name": "Homewrecker",
+            "slot": 3
+        },
+        {
+            "name": "Powerjack",
+            "slot": 3
+        },
+        {
+            "name": "Back Scratcher",
+            "slot": 3
+        },
+        {
+            "name": "Sharpened Volcano Fragment ",
+            "slot": 3
+        },
+        {
+            "name": "Third Degree",
+            "slot": 3
+        },
+        {
+            "name": "Neon Annihilator",
+            "slot": 3
+        },
+        {
+            "name": "Hot Hand ",
+            "slot": 3
+        }
+    ]
+}

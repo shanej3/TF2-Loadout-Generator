@@ -1,0 +1,64 @@
+{
+    "weapons": [
+        {
+            "name": "Knife",
+            "slot": 3
+        },
+        {
+            "name": "Your Eternal Reward",
+            "slot": 3
+        },
+        {
+            "name": "Conniver's Kunai",
+            "slot": 3
+        },
+        {
+            "name": "Big Earner ",
+            "slot": 3
+        },
+        {
+            "name": "Spy-cicle",
+            "slot": 3
+        },
+        {
+            "name": "Invis Watch",
+            "slot": 4
+        },
+        {
+            "name": "Cloak and Dagger",
+            "slot": 4
+        },
+        {
+            "name": "Dead Ringer",
+            "slot": 4
+        },
+        {
+            "name": "Sapper",
+            "slot": 2
+        },
+        {
+            "name": "Red-Tape Recorder",
+            "slot": 2
+        },
+        {
+            "name": "Revolver",
+            "slot": 1
+        },
+        {
+            "name": "Ambassador",
+            "slot": 1
+        },
+        {
+            "name": "L'Etranger",
+            "slot": 1
+        },
+        {
+            "name": "Enforcer",
+            "slot": 1
+        },
+        {
+            "name": "Diamondback",
+            "slot": 1
+        }
+    ]
+}

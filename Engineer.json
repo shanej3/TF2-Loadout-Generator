@@ -1,0 +1,60 @@
+{
+    "weapons": [
+        {
+            "name": "Shotgun",
+            "slot": 1
+        },
+        {
+            "name": "Frontier Justice",
+            "slot": 1
+        },
+        {
+            "name": "Widowmaker ",
+            "slot": 1
+        },
+        {
+            "name": "Pomson 6000",
+            "slot": 1
+        },
+        {
+            "name": "Rescue Ranger",
+            "slot": 1
+        },
+        {
+            "name": "Panic Attack",
+            "slot": 1
+        },
+        {
+            "name": "Pistol",
+            "slot": 2
+        },
+        {
+            "name": "Wrangler",
+            "slot": 2
+        },
+        {
+            "name": "Short Circuit",
+            "slot": 2
+        },
+        {
+            "name": "Wrench",
+            "slot": 3
+        },
+        {
+            "name": "Gunslinger",
+            "slot": 3
+        },
+        {
+            "name": "Southern Hospitality",
+            "slot": 3
+        },
+        {
+            "name": "Jag",
+            "slot": 3
+        },
+        {
+            "name": "Eureka Effect",
+            "slot": 3
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "weapons": [
+        {
+            "name": "Grenade Launcher ",
+            "slot": 1
+        },
+        {
+            "name": "Loch-n-Load",
+            "slot": 1
+        },
+        {
+            "name": "Bootlegger",
+            "slot": 1
+        },
+        {
+            "name": "Loose Cannon",
+            "slot": 1
+        },
+        {
+            "name": "B.A.S.E. Jumper ",
+            "slot": 1
+        },
+        {
+            "name": "Iron Bomber",
+            "slot": 1
+        },
+        {
+            "name": "Stickybomb Launcher",
+            "slot": 2
+        },
+        {
+            "name": "Scottish Resistance ",
+            "slot": 2
+        },
+        {
+            "name": "Chargin' Targe",
+            "slot": 2
+        },
+        {
+            "name": "Sticky Jumper",
+            "slot": 2
+        },
+        {
+            "name": "Splendid Screen",
+            "slot": 2
+        },
+        {
+            "name": "Tide Turner ",
+            "slot": 2
+        },
+        {
+            "name": "Quickiebomb Launcher",
+            "slot": 2
+        },
+        {
+            "name": "Bottle",
+            "slot": 3
+        },
+        {
+            "name": "Eyelander",
+            "slot": 3
+        },
+        {
+            "name": "Scotman's Skullcutter",
+            "slot": 3
+        },
+        {
+            "name": "Pain Train",
+            "slot": 3
+        },
+        {
+            "name": "Ullapool Caber",
+            "slot": 3
+        },
+        {
+            "name": "Claidheamh Mor",
+            "slot": 3
+        },
+        {
+            "name": "Half-Zatoichi",
+            "slot": 3
+        },
+        {
+            "name": "Persian Persuader",
+            "slot": 3
+        }
+    ]
+}

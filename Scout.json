@@ -1,0 +1,88 @@
+{
+    "weapons": [
+        {
+            "name": "Scattergun",
+            "slot": 1
+        },
+        {
+            "name": "Scattergun",
+            "slot": 1
+        },
+        {
+            "name": "Shortstop ",
+            "slot": 1
+        },
+        {
+            "name": "Soda Popper ",
+            "slot": 1
+        },
+        {
+            "name": "Baby Face's Blaster",
+            "slot": 1
+        },
+        {
+            "name": "Back Scatter",
+            "slot": 1
+        },
+        {
+            "name": "Pistol ",
+            "slot": 2
+        },
+        {
+            "name": "Winger ",
+            "slot": 2
+        },
+        {
+            "name": "Pretty Boy's Pocket Pistol ",
+            "slot": 2
+        },
+        {
+            "name": "Flying Guillotine ",
+            "slot": 2
+        },
+        {
+            "name": "Bonk! Atomic Punch",
+            "slot": 2
+        },
+        {
+            "name": "Crit-a-Cola",
+            "slot": 2
+        },
+        {
+            "name": "Mad Milk",
+            "slot": 2
+        },
+        {
+            "name": "Bat ",
+            "slot": 3
+        },
+        {
+            "name": "Sandman ",
+            "slot": 3
+        },
+        {
+            "name": "Candy Cane ",
+            "slot": 3
+        },
+        {
+            "name": "Boston Basher",
+            "slot": 3
+        },
+        {
+            "name": "Sun-on-a-Stick",
+            "slot": 3
+        },
+        {
+            "name": "Fan O'War",
+            "slot": 3
+        },
+        {
+            "name": "Atomizer",
+            "slot": 3
+        },
+        {
+            "name": "Wrap Assasin",
+            "slot": 3
+        }
+    ]
+}
