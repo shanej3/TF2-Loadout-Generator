@@ -51,27 +51,27 @@ class Generator:
         self.label_4.pack()
 
         self.generate_button = tk.Button(self.root, text="Random",
-                                         command=lambda: self.PickLoadout(random.randint(1, 9)))
+                                         command=lambda: self.pick_loadout(random.randint(1, 9)))
         self.generate_button.pack(pady=5)
-        self.scout_button = tk.Button(self.root, text="Scout", font=("Arial", 8), command=lambda: self.PickLoadout(1))
+        self.scout_button = tk.Button(self.root, text="Scout", font=("Arial", 8), command=lambda: self.pick_loadout(1))
         self.scout_button.pack(side=tk.LEFT, pady=5, padx=(5, 0))
         self.soldier_button = tk.Button(self.root, text="Soldier", font=("Arial", 8),
-                                        command=lambda: self.PickLoadout(2))
+                                        command=lambda: self.pick_loadout(2))
         self.soldier_button.pack(side=tk.LEFT)
-        self.soldier_button = tk.Button(self.root, text="Pyro", font=("Arial", 8), command=lambda: self.PickLoadout(3))
+        self.soldier_button = tk.Button(self.root, text="Pyro", font=("Arial", 8), command=lambda: self.pick_loadout(3))
         self.soldier_button.pack(side=tk.LEFT)
-        self.soldier_button = tk.Button(self.root, text="Demo", font=("Arial", 8), command=lambda: self.PickLoadout(4))
+        self.soldier_button = tk.Button(self.root, text="Demo", font=("Arial", 8), command=lambda: self.pick_loadout(4))
         self.soldier_button.pack(side=tk.LEFT)
-        self.soldier_button = tk.Button(self.root, text="Heavy", font=("Arial", 8), command=lambda: self.PickLoadout(5))
+        self.soldier_button = tk.Button(self.root, text="Heavy", font=("Arial", 8), command=lambda: self.pick_loadout(5))
         self.soldier_button.pack(side=tk.LEFT)
-        self.soldier_button = tk.Button(self.root, text="Engie", font=("Arial", 8), command=lambda: self.PickLoadout(6))
+        self.soldier_button = tk.Button(self.root, text="Engie", font=("Arial", 8), command=lambda: self.pick_loadout(6))
         self.soldier_button.pack(side=tk.LEFT)
-        self.soldier_button = tk.Button(self.root, text="Medic", font=("Arial", 8), command=lambda: self.PickLoadout(7))
+        self.soldier_button = tk.Button(self.root, text="Medic", font=("Arial", 8), command=lambda: self.pick_loadout(7))
         self.soldier_button.pack(side=tk.LEFT)
         self.soldier_button = tk.Button(self.root, text="Sniper", font=("Arial", 8),
-                                        command=lambda: self.PickLoadout(8))
+                                        command=lambda: self.pick_loadout(8))
         self.soldier_button.pack(side=tk.LEFT)
-        self.soldier_button = tk.Button(self.root, text="Spy", font=("Arial", 8), command=lambda: self.PickLoadout(9))
+        self.soldier_button = tk.Button(self.root, text="Spy", font=("Arial", 8), command=lambda: self.pick_loadout(9))
         self.soldier_button.pack(side=tk.LEFT, padx=(0, 5))
         # self.stock_button = tk.Button(self.root, text="No stock")
         # self.stock_button.pack(side=tk.RIGHT, anchor=tk.CENTER)
@@ -81,34 +81,10 @@ class Generator:
 
         self.root.mainloop()
 
-    def PickLoadout(self, chosen_class):
-        if chosen_class == 1:
-            file_name = "Scout.json"
-            class_name = "Scout"
-        elif chosen_class == 2:
-            file_name = "Soldier.json"
-            class_name = "Soldier"
-        elif chosen_class == 3:
-            file_name = "Pyro.json"
-            class_name = "Pyro"
-        elif chosen_class == 4:
-            file_name = "Demoman.json"
-            class_name = "Demoman"
-        elif chosen_class == 5:
-            file_name = "Heavy.json"
-            class_name = "Heavy"
-        elif chosen_class == 6:
-            file_name = "Engineer.json"
-            class_name = "Engineer"
-        elif chosen_class == 7:
-            file_name = "Medic.json"
-            class_name = "Medic"
-        elif chosen_class == 8:
-            file_name = "Sniper.json"
-            class_name = "Sniper"
-        elif chosen_class == 9:
-            file_name = "Spy.json"
-            class_name = "Spy"
+    def pick_loadout(self, chosen_class):
+        class_name = {1: "Scout", 2: "Soldier", 3: "Pyro", 4: "Demoman", 5: "Heavy",
+                      6: "Engineer", 7: "Medic", 8: "Sniper", 9: "Spy"}.get(chosen_class, 0)
+        file_name = class_name + ".json"
 
         with open(file_name, 'r') as json_file:
             data = json.load(json_file)
@@ -133,8 +109,6 @@ class Generator:
             self.label_4.config(text=f"{weapon_list[3]}")
         else:
             self.label_4.config(text=":)")
-        # return weapon_list
-        # PickLoadout()
 
 
 Generator()
